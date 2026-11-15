@@ -1,0 +1,8 @@
+Set-Content .gitignore -Value "venv/
+__pycache__/
+*.db
+.env
+node_modules/
+.next/
+*.log
+.DS_Store"
